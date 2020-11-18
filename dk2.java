@@ -4,5 +4,9 @@ class dk2
 	{
 		//Hii
 	}
+        public void kk()
+	{
+	}
+
 }
 
