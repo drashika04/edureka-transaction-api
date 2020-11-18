@@ -4,5 +4,9 @@ class dk1
 	{
 		//hiiiii
 	}
+        public void bye()
+	{
+	}
+
 }
 

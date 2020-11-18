@@ -4,4 +4,8 @@ class dk
 	{
 		//Hiiii
 	}
+         public void bye()
+	 {
+	 }
+
 }
